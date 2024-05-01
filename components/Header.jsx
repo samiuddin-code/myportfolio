@@ -10,7 +10,7 @@ const Header = () => {
         <div className="flex flex-col lg:flex-row justify-between items-center gap-y-6 py-8">
           {/* logo */}
           <Link href="/">
-           <h1 className="text-7xl font-poppins italic underline ring-offset-2 line-clamp-2  transition ease-in-out delay-150 font-extrabold  ">Sami Uddin</h1>
+           <h1 className="text-2xl font-poppins italic underline ring-offset-2 line-clamp-2  transition ease-in-out delay-150 font-extrabold  ">Sami Uddin</h1>
           </Link>
 
           {/* socials */}
